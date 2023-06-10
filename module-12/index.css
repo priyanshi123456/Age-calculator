@@ -1,0 +1,120 @@
+body {
+    background: linear-gradient(103.71deg, rgba(97, 192, 191, 0.28) 5.64%, rgba(255, 182, 185, 0.46) 45.19%, #FAE3D9 86.43%);
+    font-family: sans-serif;
+}
+
+.AC {
+    font-style: normal;
+    font-weight: 600;
+    font-size: 88px;
+    line-height: 116px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    text-transform: capitalize;
+    color: #000000;
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    margin: 7% 0 0 22%;
+}
+
+.main {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+
+}
+
+.date {
+    font-style: normal;
+    font-weight: 100;
+    font-size: 16px;
+    line-height: 33px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    flex-direction: column;
+    text-transform: capitalize;
+    color: #000000;
+    margin: 80px 100px 0 0
+}
+
+#display {
+    font-family: 'Sen';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 29px;
+    margin-left: 350px;
+    display: flex;
+    margin-top: 50px;
+    align-items: center;
+    text-align: center;
+    letter-spacing: 0.09em;
+    text-transform: capitalize;
+    color: #20B2AA;
+}
+
+
+.month {
+    font-style: normal;
+    font-weight: 100;
+    font-size: 16px;
+    line-height: 33px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    flex-direction: column;
+    text-transform: capitalize;
+    color: #000000;
+    margin: 80px 110px 0 0
+}
+
+.year {
+    font-style: normal;
+    font-weight: 200;
+    font-size: 16px;
+    line-height: 33px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    flex-direction: column;
+    text-transform: capitalize;
+    color: #000000;
+    margin: 80px 155px 0 0
+}
+
+input {
+    margin-top: 8px;
+    padding: 8px;
+    width: 100px;
+    border: 0;
+    outline: 0;
+    box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.25);
+
+}
+
+.submit {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.btn {
+    border: 0;
+    font-style: normal;
+    font-weight: 100;
+    font-size: 30px;
+    line-height: 48px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    letter-spacing: 0.09em;
+    text-transform: capitalize;
+    background: rgba(60, 160, 255, 0.84);
+    color: #FFFFFF;
+    padding: 0 50px 0 50px;
+    margin: 50px 200px 0 0;
+
+
+}
